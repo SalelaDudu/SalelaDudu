@@ -22,7 +22,7 @@ class HelloWorld {
 }
 ~~~
 
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> **C++ (obrigado professor Éder...)**
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> **C++**
 ~~~cpp
 #include <iostream>
 
@@ -70,7 +70,7 @@ value_by_class = $(".ElementClass").val();
 ~~~php
 <?= echo "Hello, World!"; ?>
 ~~~
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> **SQL**
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> **MySQL**
 ~~~sql
 select content from table where id = "1";
 ~~~
